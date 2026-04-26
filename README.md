@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hello! 👋 I'm Rohit Chand
 
-<!--
-**Rohitchand98/Rohitchand98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my portfolio! I am a passionate developer focused on building efficient, user-centric applications. I bridge the gap between complex technical challenges and clean, intuitive solutions that drive real-world value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+---
+
+### 🎯 What I Do
+* **Build Applications:** I develop scalable and reliable software solutions.
+* **Solve Problems:** I enjoy breaking down complex issues into manageable, automated processes.
+* **Continuous Learning:** I am constantly adapting to new technologies and industry best practices.
+
+---
+
+### 🛠️ Tools & Technologies I Work With
+
+* **Languages:** [e.g., Dart, Java, python]
+* **Frameworks & Libraries:** [Flutter (UI Toolkit for Mobile, Web, & Desktop)]
+* **Databases:** [e.g., Supabase, Firebase Storage, SQLite]
+* **Data & APIs:** [e.g., JSON (RESTful Integration), Dio/Http (Networking)]
+* **Backend:** [Backend/Cloud	Firebase (Auth, Firestore, Push Notifications)]
+* **Tools & Platforms:** [List the previous tools we discussed here, e.g., Git/GitHub, Android Studio, VS Code, Codemagic CI/CD]
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [Lend Reminder]
+> **The Goal:** [Explain what the project does in one plain-English sentence. e.g., "An application that helps small businesses track their daily expenses."]
+* **My Role:** Designed and developed the core application.
+* **The Impact:** [Focus on the result, e.g., "Reduced the time needed to calculate monthly budgets by 40%."]
+* **Tech Stack:** [Tool 1, Tool 2, Tool 3]
+
+
+---
+
+### 📫 Let's Connect
+I am currently open to new opportunities and collaborations. Feel free to reach out!
+
+* **LinkedIn:** [https://www.linkedin.com/in/m-rohitchand-singh/?skipRedirect=true]
+* **Email:** [rs486345@gmail.com]
+* **Portfolio Website:** [https://github.com/Rohitchand98]
