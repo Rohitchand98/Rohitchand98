@@ -1,12 +1,14 @@
 # Hello! 👋 I'm Rohit Chand
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rohitchand-singh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs486345@gmail.com)
-
 **Software Developer | Problem Solver | Tech Enthusiast**
 
 Welcome to my portfolio! I am a passionate developer focused on building efficient, user-centric applications. I bridge the gap between complex technical challenges and clean, intuitive solutions that drive real-world value.
 
+### 📫 Let's Connect
+I am currently open to new opportunities and collaborations. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rohitchand-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs486345@gmail.com)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/learn)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/learn)
@@ -42,9 +44,4 @@ Welcome to my portfolio! I am a passionate developer focused on building efficie
 
 ---
 
-### 📫 Let's Connect
-I am currently open to new opportunities and collaborations. Feel free to reach out!
 
-* **LinkedIn:** [https://www.linkedin.com/in/m-rohitchand-singh/?skipRedirect=true]
-* **Email:** [rs486345@gmail.com]
-* **Portfolio Website:** [https://github.com/Rohitchand98]
