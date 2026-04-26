@@ -59,6 +59,6 @@ I transform complex business ideas into high-performance mobile experiences. Spe
 ## 📫 Let's Build Something Together
 I am currently looking for new challenges where I can contribute to a forward-thinking team. Whether it’s a full-time role or a creative collaboration, I’d love to hear from you!
 
-* **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/m-rohitchand-singh/))
+* **LinkedIn:** [[Connect with me](https://www.linkedin.com/in/m-rohitchand-singh/)]
 * **Portfolio Portfolio:** [[CurrentPortfolio](https://github.com/Rohitchand98)]
 
