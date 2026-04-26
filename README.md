@@ -34,8 +34,8 @@ I transform complex business ideas into high-performance mobile experiences. Spe
 ## 📈 Activity & Impact
 *(Proof of consistent development and technical growth)*
 
-[//]:# <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohitchand98&show_icons=true&theme=tokyonight" alt="Rohit's Stats" height="180" />
+ <p align="left">
+[//]: #(<img src="https://github-readme-stats.vercel.app/api?username=Rohitchand98&show_icons=true&theme=tokyonight" alt="Rohit's Stats" height="180" />)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchand98&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
