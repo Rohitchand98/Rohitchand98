@@ -1,5 +1,5 @@
 # Hi, I'm Rohit Chand 👋
-### Mobile Application Developer | Flutter, Android & IOS Specialist
+### Mobile Application Developer | Flutter, Android & IOS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rohitchand-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs486345@gmail.com)
@@ -34,7 +34,7 @@ I transform complex business ideas into high-performance mobile experiences. Spe
 ## 📈 Activity & Impact
 *(Proof of consistent development and technical growth)*
 
-<p align="left">
+[//]:# <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Rohitchand98&show_icons=true&theme=tokyonight" alt="Rohit's Stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchand98&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
