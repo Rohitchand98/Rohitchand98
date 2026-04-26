@@ -6,13 +6,8 @@ Welcome to my portfolio! I am a passionate developer focused on building efficie
 
 ### 📫 Let's Connect
 I am currently open to new opportunities and collaborations. Feel free to reach out!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rohitchand-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs486345@gmail.com)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/learn)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/learn)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/products-build)
 ---
 
 ### 🎯 What I Do
@@ -24,6 +19,10 @@ I am currently open to new opportunities and collaborations. Feel free to reach 
 
 ### 🛠️ Tools & Technologies I Work With
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/learn)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/learn)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/products-build)
 * **Languages:** [e.g., Dart, Java, python]
 * **Frameworks & Libraries:** [Flutter (UI Toolkit for Mobile, Web, & Desktop)]
 * **Databases:** [e.g., Supabase, Firebase Storage, SQLite]
