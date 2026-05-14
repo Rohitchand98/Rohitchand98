@@ -1,4 +1,4 @@
-# Hi, I'm Rohit Chand <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="300" />
+# Hi, I'm Rohit Chand <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="20" />
 
 
 ### Mobile Application Developer | Flutter, Android & IOS
