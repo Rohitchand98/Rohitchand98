@@ -1,4 +1,5 @@
-# Hi, I'm Rohit Chand [(https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif)]
+# Hi, I'm Rohit Chand ![Demo Animation](https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif)
+
 ### Mobile Application Developer | Flutter, Android & IOS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rohitchand-singh)
