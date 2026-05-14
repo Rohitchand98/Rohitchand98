@@ -44,17 +44,18 @@ I transform complex business ideas into high-performance mobile experiences. Spe
 
 ## 🚀 Key Projects
 
+### 💎 [Harisdiam - Gaming E-Commerce Platform](https://github.com/Rohitchand98/Game_Diamond_Store)
+A premium, full-stack prototype for a gaming top-up store, featuring a high-fidelity "Dark Mode" UI.
+
+*   **Tech Stack:** Flutter (Web), Dart, Firebase (Auth, Firestore, Data Connect), GraphQL.
+*   **Key Features:** Responsive Material 3 design, real-time transaction tracking, and relational data management via PostgreSQL.
+*   **Live Demo:** [View Hosted App](https://zimutzyofficialstore-d520f.web.app) 🚀
+
 ### 📱 [Project Name - e.g., EcoTrack Mobile]
 **The Problem:** Users needed a way to track carbon footprints in real-time but found existing apps too slow and complex.
 **The Solution:** Developed a lightweight Flutter app with a Java-based background service for accurate sensor tracking.
 **The Result:** Reduced app load times by 30% and achieved a seamless sync with cloud databases using JSON protocols.
 > [**View Code**](Link_to_repo) | [**Demo Video**](Link_to_video)
-
-### 🛒 [Project Name - e.g., QuickShop UI]
-**The Problem:** Small businesses lacked a mobile-first interface for inventory management.
-**The Solution:** Built a custom UI kit in Flutter focused on high-speed data entry and barcode scanning.
-**The Result:** Enabled non-technical staff to manage 500+ items with zero training required.
-> [**View Code**](Link_to_repo)
 
 ---
 
